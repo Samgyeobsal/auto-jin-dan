@@ -5,6 +5,8 @@ ___C:/chromedriver_win32/ 폴더를 만드시고 chrome webdriver를 추가하�
 
 ___파이어폭스나 엣지에선 작동하지 않을 가능성이 높습니다 (테스트 안해봄)___
 
+___코드를 열어서 학교, 학교종류, 성명, 생년월일을 직접 입력하셔야 합니다___
+
 크롬 웹드라이버 [다운로드](https://chromedriver.chromium.org/downloads)
 
 개발자 [블로그](https://samgyeobsal123.tistory.com/)
