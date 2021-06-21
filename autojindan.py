@@ -2,12 +2,14 @@
 from selenium import webdriver as wb
 from selenium.webdriver.common.keys import Keys as K
 import time
-import sys
 
 password = input("자가진단 비밀번호 입력 : ")
 
 b = wb.Chrome('C:/chromedriver_win32/chromedriver.exe')
 b.get("https://hcs.eduro.go.kr/#/relogin")
+
+
+
 
 def login():
 
